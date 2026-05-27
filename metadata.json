@@ -1,0 +1,6 @@
+{
+  "name": "Global Gateways",
+  "description": "Premium travel and corporate event management landing page, optimized for luxury travel seekers, corporate retreats, and conversion-focused Instagram traffic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
